@@ -1,6 +1,5 @@
 import numpy as np
 import random
-import shelve
 
 
 def activate_function(x):
